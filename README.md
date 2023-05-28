@@ -24,3 +24,4 @@
 |  16 | CVE-2023-2693  | MEDIUM |https://nvd.nist.gov/vuln/detail/CVE-2023-2693|
 |  17 | CVE-2023-2770  | MEDIUM |https://nvd.nist.gov/vuln/detail/CVE-2023-2770|
 |  18 | CVE-2023-2771  | MEDIUM |https://nvd.nist.gov/vuln/detail/CVE-2023-2771|
+|  19 | CVE-2023-2925  | LOW |https://nvd.nist.gov/vuln/detail/CVE-2023-2771|
