@@ -26,3 +26,4 @@
 |  18 | CVE-2023-2771  | MEDIUM |https://nvd.nist.gov/vuln/detail/CVE-2023-2771|
 |  19 | CVE-2023-2925  | LOW |https://nvd.nist.gov/vuln/detail/CVE-2023-2771|
 |  20 | CVE-2023-2954  | MEDIUM |[https://nvd.nist.gov/vuln/detail/CVE-2023-2771](https://huntr.dev/bounties/47f08086-aaae-4ca7-b0ca-24c616d3ad7d/)|
+|  21 | CVE-2023-3095  | MEDIUM |[https://nvd.nist.gov/vuln/detail/CVE-2023-2771](https://nvd.nist.gov/vuln/detail/CVE-2023-3095)|
