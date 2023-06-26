@@ -27,4 +27,5 @@
 |  19 | CVE-2023-2925  | LOW |https://nvd.nist.gov/vuln/detail/CVE-2023-2925|
 |  20 | CVE-2023-2954  | MEDIUM |https://nvd.nist.gov/vuln/detail/CVE-2023-2954|
 |  21 | CVE-2023-3095  | MEDIUM |[https://nvd.nist.gov/vuln/detail/CVE-2023-3095](https://nvd.nist.gov/vuln/detail/CVE-2023-3095)|
-|  22 | CVE-2023-3142  | LOW |[[https://nvd.nist.gov/vuln/detail/CVE-2023-3142](https://huntr.dev/bounties/d00686b0-f89a-4e14-98d7-b8dd3f92a6e5/)|
+|  22 | CVE-2023-3142  | LOW | [https://nvd.nist.gov/vuln/detail/CVE-2023-3142](https://huntr.dev/bounties/d00686b0-f89a-4e14-98d7-b8dd3f92a6e5/)|
+|  23 | CVE-2023-3142  | LOW | [https://nvd.nist.gov/vuln/detail/CVE-2023-3142](https://huntr.dev/bounties/d00686b0-f89a-4e14-98d7-b8dd3f92a6e5/)|
