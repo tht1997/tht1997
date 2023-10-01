@@ -30,3 +30,4 @@
 |  22 | CVE-2023-3142  | LOW | [https://nvd.nist.gov/vuln/detail/CVE-2023-3142](https://huntr.dev/bounties/d00686b0-f89a-4e14-98d7-b8dd3f92a6e5/)|
 |  23 | CVE-2023-3142  | LOW | [https://nvd.nist.gov/vuln/detail/CVE-2023-3142](https://huntr.dev/bounties/d00686b0-f89a-4e14-98d7-b8dd3f92a6e5/)|
 |  24 | CVE-2023-4455  | MEDIUM | [https://nvd.nist.gov/vuln/detail/CVE-2023-4455](https://huntr.dev/bounties/5ab1b206-5fe8-4737-b275-d705e76f193a/)|
+|  25 | CVE-2023-5313  | MEDIUM | [https://nvd.nist.gov/vuln/detail/CVE-2023-5313](https://huntr.dev/bounties/5ab1b206-5fe8-4737-b275-d705e76f193a](https://github.com/tht1997/WhiteBox/blob/main/PHPKOBO/ajax_pool_script.md)/)|
