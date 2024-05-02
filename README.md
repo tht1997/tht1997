@@ -33,4 +33,4 @@
 |  25 | CVE-2023-5313  | MEDIUM | [https://nvd.nist.gov/vuln/detail/CVE-2023-5313](https://github.com/tht1997/WhiteBox/blob/main/PHPKOBO/ajax_pool_script.md)|
 |  26 | CVE-2023-46722   | MEDIUM | [https://github.com/pimcore/admin-ui-classic-bundle/security/advisories/GHSA-jfxw-6c5v-c42f](https://github.com/pimcore/admin-ui-classic-bundle/security/advisories/GHSA-jfxw-6c5v-c42f)|
 |  27 | CVE-2023-5873   | MEDIUM | [https://huntr.com/bounties/701cfc30-22a1-4c4b-9b2f-885c77c290ce/](https://nvd.nist.gov/vuln/detail/CVE-2023-5873)|
-|  27 | CVE-2024-2556   | MEDIUM | [https://nvd.nist.gov/vuln/detail/CVE-2024-2556](https://nvd.nist.gov/vuln/detail/CVE-2024-2556)|
+|  28 | CVE-2024-2556   | MEDIUM | [https://nvd.nist.gov/vuln/detail/CVE-2024-2556](https://nvd.nist.gov/vuln/detail/CVE-2024-2556)|
